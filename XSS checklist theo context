@@ -1,3 +1,4 @@
+# CHECKLIST
 - Tìm mọi nơi có input → xuất hiện lại trên UI:
   - Query string, form, search box, comment, profile, upload, redirect `?next=`, `?url=`,..
 - Với mỗi input, cố gắng tìm:
